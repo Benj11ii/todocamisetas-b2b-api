@@ -97,10 +97,3 @@ La API quedará disponible en: **`http://localhost:8080`**
 - **Postman:** Importar `EVA3_CarmonaBenjamin.postman_collection.json` para ejecutar las pruebas con ejemplos de request y response incluidos.
 
 ---
-
-## Autor
-
-**Benjamín Alonso Carmona Vega**  
-Desarrollo Backend — Sección 52  
-Instituto Profesional San Sebastián  
-Profesor: Patricio Eduardo Silva
